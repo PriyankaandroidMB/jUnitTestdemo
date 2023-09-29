@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render Correctly 1`] = `
+<View
+  style={
+    {
+      "flex": 1,
+    }
+  }
+>
+  <TextInput
+    onChangeText={[Function]}
+    placeholder="Enter Username"
+    style={
+      {
+        "backgroundColor": "grey",
+        "marginBottom": 15,
+      }
+    }
+    testID="username"
+  />
+</View>
+`;
